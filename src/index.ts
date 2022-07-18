@@ -81,6 +81,11 @@ svg
   .enter()
   .append("path")
   .attr("class", "country")
+  .on("mouseover", function(d) {
+    d3.select(this).style("fill", "#2f4858");
+  })
+  .on("mouseout", function(d) {
+    d3.select(this).style("fill", "#008c86");})
   // data loaded from json file
   .attr("d", geoPath as any);
 
