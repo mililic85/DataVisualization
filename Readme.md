@@ -1,3 +1,5 @@
+By: @Milagros Bernardi (UMA - VI MÁSTER PROPIO UNIVERSITARIO EN ADVANCED ANALYTICS ON BIG DATA (2021-23))
+
 # Adding buttons and updating data of coronavirus incidence by autonomus community in Spain.
 
 # Starting the code
@@ -24,9 +26,6 @@ npm start
 localhost:1234
 ```
 - The webpage is displayed. To change the data displayed, clik in the buttons. First data displayed is the "old data".
-
-
-By: @Milagros Bernardi (UMA - Data Analytics and Big Data)
 
 Here you can find a webpage that displays a map from Spain  pinning coronavirus affected locations and scaling that pin according the number of cases affected. Additionally, you can choose by pressing the buttons at the above, between "old data" and "new data" meaning the total cases for earlier stage and the last updated data (up to Jul, 17th):
 
