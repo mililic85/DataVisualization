@@ -5,7 +5,7 @@
 - clone the repository by performing the command:
 
 ```shell
-git clone [<GitHub Shell URL>](https://github.com/mililic85/DataVisualization)
+git clone https://github.com/mililic85/DataVisualization
 ```
 
 - run the code in shell to install the dependencies:
