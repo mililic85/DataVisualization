@@ -12,6 +12,12 @@ By: @Milagros Bernardi (UMA - VI MÁSTER PROPIO UNIVERSITARIO EN ADVANCED ANALYT
 git clone https://github.com/mililic85/DataVisualization/advanced
 ```
 
+- select the branch `advanced`
+
+```shell
+git checkout advanced
+```
+
 - run the code in shell to install the dependencies:
 
 ```shell
