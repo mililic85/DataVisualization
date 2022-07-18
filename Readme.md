@@ -2,7 +2,7 @@
 
 # Starting the code
 
-- clone the repositorie by performing the command:
+- clone the repository by performing the command:
 
 ```shell
 git clone <GitHub Shell URL>
