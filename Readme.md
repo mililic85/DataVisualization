@@ -1,4 +1,4 @@
-# adding buttons and updating data of coronavirus incidence by autonomus community in Spain.
+# Adding buttons and updating data of coronavirus incidence by autonomus community in Spain.
 
 # Starting the code
 
